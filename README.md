@@ -1,2 +1,0 @@
-# Visual-Place-Recognition
-Matlab
