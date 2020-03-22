@@ -13,9 +13,9 @@ over extreme appearance and viewpoint variations.
 image
 5) calculation of the best match
 
-![](https://github.com/sepidehhosseinzadeh/Visual-Place-Recognition/blob/master/pipeline.png)
+![](https://github.com/sepidehhosseinzadeh/Visual-Place-Recognition/blob/master/pipeline.png){:height="50%" width="50%"}
 
 ## Notes
-Used https://github.com/pdollar/edges.git as edge-box shadow detection tool-box
-Used https://pdollar.github.io/toolbox/ as pdollar-toolbox
+- Used https://github.com/pdollar/edges.git as edge-box shadow detection tool-box
+- Used https://pdollar.github.io/toolbox/ as pdollar-toolbox
 
