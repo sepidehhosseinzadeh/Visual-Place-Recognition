@@ -13,7 +13,8 @@ over extreme appearance and viewpoint variations.
 image
 5) calculation of the best match
 
-<img src="https://github.com/sepidehhosseinzadeh/Visual-Place-Recognition/blob/master/pipeline.png" alt="" width="400" height="500"> 
+![](https://github.com/sepidehhosseinzadeh/Visual-Place-Recognition/blob/master/pipeline.png)
+!<img src="https://github.com/sepidehhosseinzadeh/Visual-Place-Recognition/blob/master/pipeline.png" alt="" width="400" height="500"> 
 
 ## Notes
 - Used https://github.com/pdollar/edges.git as edge-box shadow detection tool-box
